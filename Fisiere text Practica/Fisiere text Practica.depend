@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606762294 source:d:\proiecte wellcode\modul 2\fisiere text practica\main.cpp
+	<fstream>
+	<iostream>
+

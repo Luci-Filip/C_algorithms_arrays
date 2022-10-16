@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607119014 source:d:\proiecte wellcode\modul 2\maxim fisier\main.cpp
+	<fstream>
+	<iostream>
+

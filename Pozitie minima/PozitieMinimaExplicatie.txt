@@ -1,0 +1,32 @@
+10
+1 2 3 4 4 4 5 6 6 7
+4
+2 4 5 6
+
+frecv INAINTE:
+1 2 3 4 5 6 7 8 9 10 ...
+0 0 0 0 0 0 0 0 0 0
+
+frecv DUPA:
+1 2 3 4 5 6 7  8 9 10 ... 
+1 2 3 4 7 8 10 0 0 0 
+
+2 4 5 6
+frecv[2] = 2
+frecv[4] = 4
+frecv[5] = 7
+frecv[6] = 8
+
+for 1 ... 500
+	frecv[index] = 0 -> init vect frecv
+
+for 1 ... n -> index = 1 ... n (asta e indexul din vectorul initial)
+	citesti valori (la asta ma refer prin "valorii citite")
+	daca valoarea din frecv de pe poz valorii citite != 0 => initializam frecv[val citita] = indexul din vectorul initial
+	(uita-te in exemplele de mai sus si verfica)
+
+for 1 ... m
+	citesti acel x
+	si afisezi frecv[x]
+
+GATA!

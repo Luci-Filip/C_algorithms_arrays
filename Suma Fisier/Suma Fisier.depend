@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607120900 source:d:\proiecte wellcode\modul 2\suma fisier\main.cpp
+	<iostream>
+	<fstream>
+
